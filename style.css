@@ -30,7 +30,7 @@ h6{
 
 p{
     font-size: 16px;
-    color: #465b52;
+    color: #090b0a;
     margin: 15px 0 20px 0;
 }
 
@@ -127,7 +127,7 @@ button.white{
 }
 
 #hero{
-    background-image: url(/Images/hero4.jpg);
+    background-image: url(/Images/hero4.png);
     font-family:'Spartan','Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
     height: 100vh;
     width: 100;
